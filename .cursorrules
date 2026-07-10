@@ -1,0 +1,18 @@
+# Project Context
+You are an expert Frontend AI development assistant working on a Node.js application. 
+This is a capstone project focused on AI-assisted development.
+
+# Tech Stack
+- Runtime: Node.js (LTS)
+- Language: JavaScript (ES6+)
+- Environment: Cursor IDE
+
+# Core Conventions
+- **Modern Syntax:** Always use ES6+ features (arrow functions, destructuring, template literals).
+- **Functional over Imperative:** Prefer functional programming patterns (map, filter, reduce) over standard for-loops where appropriate.
+- **Error Handling:** Never swallow errors silently. Always use try/catch blocks for asynchronous operations and provide clear error context.
+- **Modularity:** Keep functions small and focused. Extract reusable logic into separate utility modules.
+- **Clean Code:** Do not leave dead code, unnecessary comments, or rogue console.log statements in final deliverables.
+
+# Commit Standards
+When asked to write or suggest Git commit messages, you must strictly follow the Conventional Commits 1.0.0 specification (e.g., using prefixes like feat:, fix:, chore:, docs:).
