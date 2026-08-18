@@ -1,0 +1,1 @@
+Initialize a new React application using Vite. Use functional components only. Remove all default Vite boilerplate, styles, and demonstration code. Leave a minimal working React application with an empty App component.
